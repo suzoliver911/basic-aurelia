@@ -1,0 +1,13 @@
+body {
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    /*font-family: 'Ranga', cursive;*/
+    font-size: 1em;
+}
