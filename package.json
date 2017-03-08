@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/suzoliver911/basic-aurelia/issues"
   },
-  "homepage": "https://github.com/suzoliver911/basic-aurelia#readme"
+  "homepage": "https://github.com/suzoliver911/basic-aurelia#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-esnext": "^1.6.0"
+  }
 }
